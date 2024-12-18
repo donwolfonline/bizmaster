@@ -140,4 +140,4 @@ Download the latest version from:
 
 ---
 
-Made with ❤️ by [Don Wolf Online](https://github.com/donwolfonline)
+Made with ❤️ by [Frederick Dineen](https://github.com/donwolfonline)
