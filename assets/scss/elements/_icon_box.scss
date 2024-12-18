@@ -1,0 +1,185 @@
+/*-------------------------
+    Icon Box Item
+-------------------------*/
+.icon-box-item {
+  display: flex;
+  transition: all 300ms;
+  background-color: #FFF2E5;
+  .icon-wrap {
+    position: relative;
+    display: inline-block;
+    span {
+      display: inline-block;
+      height: 48px;
+      width: 48px;
+      line-height: 49px;
+      border-radius: 50%;
+      background: var(--main-color-one);
+      font-weight: 600;
+      color: #fff;
+      position: absolute;
+      right: -23px;
+      top: -23px;
+      transition: 0.4s;
+    }
+  }
+  &.top {
+    display: block;
+
+    &[style="text-align:center"] {
+      .icon {
+        margin: 0 auto;
+      }
+    }
+
+    &[style="text-align:right"] {
+      .icon-wrap {
+        display: flex;
+        justify-content: flex-end;
+      }
+    }
+  }
+
+  &[style="text-align:left"] {
+    .icon {
+      justify-content: left;
+    }
+  }
+
+  &.right {
+    flex-direction: row-reverse;
+
+    .icon {
+      margin-left: 15px;
+    }
+  }
+
+  &.left {
+
+    //&[style="text-align:left"] {
+    //  align-items: initial;
+    //}
+    .text-icon,
+    .icon {
+      margin-right: 15px;
+    }
+  }
+
+  .text-icon,
+  .icon {
+    width: 100px;
+    height: 110px;
+    line-height: 100px;
+    text-align: center;
+    background: var(--main-color-one);
+    border-radius: 0%;
+    font-size: 50px;
+  }
+
+  .content {
+    flex: 1;
+
+    .title {
+      color: var(--heading-color);
+      line-height: 1.388;
+      font-weight: 600;
+      margin-bottom: 0;
+      span {
+        color: var(--main-color-one);
+      }
+    }
+
+    p {
+      color: var(--heading-color);
+      font-size: 16px;
+      line-height: 1.51;
+      font-weight: 400;
+      margin-bottom: 8px;
+      font-family: var(--body-font);
+    }
+  }
+}
+
+/*-------------------------
+  Icon Box Item - 02
+-------------------------*/
+.icon-box-item-02 {
+  background: $white;
+  padding: 30px 30px 30px 30px;
+  position: relative;
+  z-index: 0;
+  &:hover {
+    .line-02 {
+      width: 100%;
+      height: 25%;
+    }
+    .line-03 {
+      width: 50%;
+      height: 50%;
+    }
+  }
+  &.style-01 {
+    background: #FFFBF6;
+    margin-bottom: 30px;
+    .content {
+      p {
+        margin-bottom: 0;
+      }
+    }
+  }
+
+  .icon {
+    margin-bottom: 13px;
+  }
+  .content {
+    .title {
+      font-size: 20px;
+      color: var(--heading-color);
+      margin-bottom: 0;
+    }
+    p {
+      font-size: 16px;
+      color: var(--heading-color);
+    }
+  }
+  .line-02 {
+  position: absolute;
+  z-index: 1;
+  right: 0;
+  top: 0px;
+  border-top: 1px solid var(--main-color-one);
+  border-right: 1px solid var(--main-color-one);
+  width: 0%;
+  height: 0%;
+  transition: 0.5s all ease;
+}
+.line-03 {
+  position: absolute;
+  z-index: 1;
+  left: 0;
+  bottom: 0px;
+  border-bottom: 1px solid var(--main-color-one);
+  border-left: 1px solid var(--main-color-one);
+  width: 0%;
+  height: 0%;
+  transition: 0.5s all ease;
+}
+}
+
+/*-------------------------
+  Why Chosse us section
+-------------------------*/
+
+.why-choose-section {
+  &.home-three {
+    background: #F8F8F8;
+    padding: 115px 0px 90px;
+  }
+}
+.secondary-font h2,
+.secondary-font h3,
+.secondary-font h4,
+.secondary-font h5,
+.secondary-font h6 { 
+  font-family: var(--secondary-font);
+}

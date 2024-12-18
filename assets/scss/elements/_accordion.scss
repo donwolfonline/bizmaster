@@ -1,0 +1,91 @@
+/*-----------------------------
+    Accordion Item
+-----------------------------*/
+.single-accordion-inner {
+    .accordion-item {
+        background: #f4f4f4;
+        border: 0;
+        margin-bottom: 20px;
+        padding: 10px 30px;
+        .accordion-button {
+            background: transparent;
+            font-size: 20px;
+            padding: 22px 0;
+            box-shadow: none;
+            color: var(--heading-color);
+            font-weight: 600;
+            &.collapsed {
+                color: var(--main-color-one);
+            }
+        }
+        .accordion-body {
+            padding: 0 0 30px 0;
+        }
+    }
+    &.accordion-icon-left {
+        .accordion-item {
+            .accordion-button {
+                padding-left: 50px;
+                &:after {
+                    right: 0;
+                    position: absolute;
+                }
+            }
+        }
+    }
+    &.style-2 {
+        .accordion-item {
+            .accordion-button {
+                &.collapsed {
+                    &:after {
+                        content: "+";
+                        font-size: 20px;
+                        color: var(--main-color-one);
+                    }
+                }
+                &:after {
+                    content: "-";
+                    background-image: none !important;
+                    font-size: 22px;
+                    transform: rotate(0);
+                    width: 30px;
+                    height: 30px;
+                    line-height: 24px;
+                    text-align: center;
+                    border-radius: 6px;
+                    color: var(--heading-color);
+                }
+            }
+        }
+    }
+    &.style-3 {
+        .accordion-item {
+            border: 1px solid var(--border-color);
+            margin-bottom: 20px;
+            border-radius: 5px;
+            padding: 0 20px;
+            .accordion-button {
+                &.collapsed {
+                    color: var(--heading-color);
+                    &:after {
+                        content: "+";
+                        font-size: 20px;
+                    }
+                }
+                &:after {
+                    content: "-";
+                    background-image: none !important;
+                    font-size: 22px;
+                    transform: rotate(0);
+                    width: 30px;
+                    height: 30px;
+                    line-height: 24px;
+                    background: var(--main-color-one);
+                    color: #fff;
+                    text-align: center;
+                    border-radius: 6px;
+                }
+            }
+        }
+    }
+}

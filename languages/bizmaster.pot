@@ -1,0 +1,1825 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Bizmaster\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-03-05 17:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.3; wp-6.1.1\n"
+"X-Domain: bizmaster"
+
+#: inc/theme-settings/theme-group-fields-cs.php:270
+msgid " Page Options"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:326
+msgid " Post Options"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:342
+#: inc/theme-settings/theme-option-cs.php:256
+#: inc/theme-settings/theme-option-cs.php:262
+#: inc/theme-settings/theme-option-cs.php:268
+#: inc/theme-settings/theme-option-cs.php:274
+#: inc/theme-settings/theme-option-cs.php:382
+msgid "#"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:250
+msgid "(+880) 172570051"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:370
+msgid "(808) 555-0111"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:455
+msgid "+91 458 654 528"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:372
+msgid "...."
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:31
+msgid "01. Main Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:70
+msgid "02. Header One Options"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:133
+msgid "03. Header Two Options"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:235
+msgid "05. Sidebar"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:267
+msgid "06. Footer One"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:354
+msgid "06. Footer Two"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+msgid "1 Comment"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:273
+msgid "10:00am"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:226
+msgid "20 January, 2024 "
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:267
+msgid "2024"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:255
+msgid "21"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-value-cs.php:255
+msgid "404"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:899
+msgid "404 Image"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:892
+msgid "404 Image Enable"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:886
+msgid "404 Page"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:906
+msgid "404 Page Options"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:279
+msgid "684 Ann St. FL 34608"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:316
+msgid "9 months full time"
+msgstr ""
+
+#: inc/theme-settings/theme-shortcode-option-cs.php:16
+msgid "Add Shortcode"
+msgstr ""
+
+#: inc/theme-init.php:154 inc/theme-init.php:164 inc/theme-init.php:175
+#: inc/theme-init.php:185 inc/theme-init.php:194
+msgid "Add widgets here."
+msgstr ""
+
+#. Name of the theme
+msgid "Bizmaster"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:21
+msgid "Bizmaster Options"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Bizmaster – Its unique features and functionalities make it the ideal "
+"solution for websites dedicated to private It service, Business, or any "
+"other businesses related to Service. The theme is well suited for all types "
+"of Business services: Business, Finance, long range It service, small prop, "
+"Business and private investment,  or it service."
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:982
+msgid "Archive"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:979
+msgid "Archive Page"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:445
+msgid "Author Bio"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:322
+msgid "ba1x"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:310
+msgid "Bachelor of Aviation (Hons)"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-value-cs.php:258
+msgid "Back To Home"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:933
+msgid "back to home"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:177
+msgid "Back To Top"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:188
+msgid "Back Top"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:195
+msgid "Back Top Icon"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:184
+msgid "Back Top Options"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:62
+msgid "Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:508
+msgid "Background Image"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:1008
+msgid "Backup & Import"
+msgstr ""
+
+#: inc/theme-breadcrumb.php:50 inc/theme-settings/theme-option-cs.php:966
+msgid "Blog"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:814
+#: inc/theme-settings/theme-option-cs.php:963
+msgid "Blog Page"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:812
+msgid "Blog Post"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:806
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:974
+msgid "Blog Single"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:821
+#: inc/theme-settings/theme-option-cs.php:971
+msgid "Blog Single Page"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:89
+msgid "Body Font Options"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:121
+#: inc/theme-settings/theme-option-cs.php:166
+msgid "Bold 700"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:491
+#: inc/theme-settings/theme-option-cs.php:501
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:521
+msgid "Breadcrumb Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:497
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:930
+msgid "Button Text"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:475
+msgid "Button Title"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:482
+msgid "Button URL"
+msgstr ""
+
+#: inc/theme-helper-functions.php:284
+msgid "By"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:232
+msgid "Cakung, Jakarta "
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:449
+msgid "Call Us Free"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:219
+msgid "Category"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:321
+msgid "Code"
+msgstr ""
+
+#: comments.php:96
+msgid "Comment..."
+msgstr ""
+
+#: inc/theme-helper-functions.php:724
+msgid "Comments"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comments &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments "
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-settings/theme-customizer-cs.php:338
+msgid "Copyright Area Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:618
+#: inc/theme-settings/theme-option-cs.php:757
+msgid "Copyright Area Bottom Spacing"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:333
+#: inc/theme-settings/theme-customizer-cs.php:392
+msgid "Copyright Area Options"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:593
+#: inc/theme-settings/theme-option-cs.php:732
+msgid "Copyright Area Spacing"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:600
+#: inc/theme-settings/theme-option-cs.php:739
+msgid "Copyright Area Text"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:344
+#: inc/theme-settings/theme-customizer-cs.php:397
+msgid "Copyright Area Text Color"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:606
+#: inc/theme-settings/theme-option-cs.php:745
+msgid "Copyright Area Top Spacing"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:335
+msgid "Course Module Button Title"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:341
+msgid "Course Module Button URL"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:329
+msgid "Course Module Title"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:286
+msgid "Courses Options"
+msgstr ""
+
+#: inc/theme-settings/theme-shortcode-option-cs.php:32
+msgid "Custom Class"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:127
+msgid "Description"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:132
+msgid "Description Two"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:122
+msgid "Designation"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:336
+msgid "Download"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:330
+msgid "Download full course Module"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:103
+#: inc/theme-settings/theme-customizer-cs.php:206
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:115
+msgid "Dropdown Border Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:127
+#: inc/theme-settings/theme-customizer-cs.php:218
+msgid "Dropdown Hover Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:121
+#: inc/theme-settings/theme-customizer-cs.php:224
+msgid "Dropdown Hover Text Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:98
+msgid "Dropdown Options"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:109
+#: inc/theme-settings/theme-customizer-cs.php:212
+msgid "Dropdown Text Color"
+msgstr ""
+
+#: comments.php:78
+msgid "Email"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:142
+msgid "email"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:244
+msgid "email@evha.com"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:71
+msgid "Enable Svg Upload ?"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:32
+msgid "enter <mark>video url</mark> to show in frontend"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:31
+msgid "Enter Video URL"
+msgstr ""
+
+#: inc/theme-hook-customize.php:108
+msgid "Error 404"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:254
+msgid "Event Date"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:278
+msgid "Event Location"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:260
+msgid "Event Month"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:239
+msgid "Event Options"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:272
+msgid "Event Time"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:266
+msgid "Event Year"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:383
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:369
+msgid "Excerpt More"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:122
+#: inc/theme-settings/theme-option-cs.php:167
+msgid "Extra Bold 800"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:261
+msgid "Feb"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:535
+msgid "Footer"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:769
+msgid "Footer About Item Settings"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:656
+msgid "Footer Animated Image"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:278
+#: inc/theme-settings/theme-customizer-cs.php:365
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:649
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:284
+#: inc/theme-settings/theme-customizer-cs.php:371
+msgid "Footer Bottom Border Color"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:571
+#: inc/theme-settings/theme-option-cs.php:716
+msgid "Footer Bottom Spacing"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:583
+#: inc/theme-settings/theme-option-cs.php:728
+msgid "Footer Copyright Area Options"
+msgstr ""
+
+#: inc/theme-init.php:83
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:670
+msgid "Footer Menu Repeater"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:675
+msgid "Footer Menu Title"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:543
+msgid "Footer One"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:273
+#: inc/theme-settings/theme-customizer-cs.php:360
+msgid "Footer Options"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:548
+msgid "Footer Settings One"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:693
+msgid "Footer Settings Two"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:588
+#: inc/theme-settings/theme-option-cs.php:643
+msgid "Footer Shortcode"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:413
+msgid "Footer Social Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:425
+msgid "Footer Social Background Hover Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:407
+msgid "Footer Social Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:419
+msgid "Footer Social Hover Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:402
+msgid "Footer Social Options"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:552
+#: inc/theme-settings/theme-option-cs.php:697
+msgid "Footer Spacing"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:689
+msgid "Footer subscribe"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:322
+msgid "Footer Tag Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:328
+msgid "Footer Tag Border Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:316
+msgid "Footer Tag Text Color"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:638
+msgid "Footer Top Settings"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:559
+#: inc/theme-settings/theme-option-cs.php:704
+msgid "Footer Top Spacing"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:633
+msgid "Footer Two"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:139
+#: inc/theme-settings/theme-option-cs.php:309
+msgid "Footer Type"
+msgstr ""
+
+#: inc/theme-init.php:183
+msgid "Footer Widget Area"
+msgstr ""
+
+#: inc/theme-init.php:192
+msgid "Footer Widget Area Two"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:289
+#: inc/theme-settings/theme-customizer-cs.php:376
+msgid "Footer Widget Options"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:300
+#: inc/theme-settings/theme-customizer-cs.php:381
+msgid "Footer Widget Text Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:306
+#: inc/theme-settings/theme-customizer-cs.php:387
+msgid "Footer Widget Text Hover Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:294
+msgid "Footer Widget Title Color"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:37
+msgid "Gallery Post Format Options"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:38
+msgid "General"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:436
+msgid "Get Related Post"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:305
+msgid "Global Footer Style"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:289
+msgid "Global Header Style"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:65
+msgid "Header Footer & Breadcrumb"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:332
+msgid "Header One"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:396
+msgid "Header Two"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:327
+msgid "Headers"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:133
+msgid "Heading Font"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:128
+msgid "Heading Font Options"
+msgstr ""
+
+#: inc/theme-breadcrumb.php:49 inc/theme-settings/theme-option-cs.php:676
+msgid "Home"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://themeforest.net/user/wowtheme7"
+msgstr ""
+
+#. URI of the theme
+msgid "https://wowtheme7.com/wp/bizmaster/"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:84
+#: inc/theme-settings/theme-metabox-cs.php:158
+#: inc/theme-settings/theme-metabox-cs.php:183
+#: inc/theme-settings/theme-metabox-cs.php:248
+#: inc/theme-settings/theme-shortcode-option-cs.php:40
+#: inc/theme-settings/theme-shortcode-option-cs.php:111
+msgid "Icon"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:72
+msgid "If you want to enable or disable svg upload you can set ( YES / NO )"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:998
+msgid "Import / Export"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:448
+msgid "Info  Title"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:430
+msgid "Info Bar Options"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:387
+#: inc/theme-settings/theme-option-cs.php:468
+msgid "Info Button"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:435
+msgid "Info Item Button"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:442
+msgid "Info Item Repeater"
+msgstr ""
+
+#: inc/theme-settings/theme-shortcode-option-cs.php:76
+msgid "Info Menu"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:454
+msgid "Info Number"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:460
+msgid "Info URL"
+msgstr ""
+
+#: inc/theme-settings/theme-shortcode-option-cs.php:103
+msgid "Inline Info Link"
+msgstr ""
+
+#: inc/theme-settings/theme-shortcode-option-cs.php:18
+msgid "Insert Shortcode"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-value-cs.php:257
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:43
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"sbizmasterng can help."
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:220
+msgid "It Service "
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:208
+msgid "Las vegas "
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:238
+msgid "Lavaca Street, Suite 2000"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:60
+msgid "Layout & Colors"
+msgstr ""
+
+#: comments.php:88
+msgid "Leave A Comment"
+msgstr ""
+
+#: comments.php:89
+#, php-format
+msgid "Leave A Reply To %s"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:315
+msgid "Length"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:117
+#: inc/theme-settings/theme-option-cs.php:162
+msgid "Light 300"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/theme-helper-functions.php:309
+msgctxt "list item separator"
+msgid " "
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:113
+#: inc/theme-settings/theme-option-cs.php:158
+msgid "Load Font Variant"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:344
+#: inc/theme-settings/theme-option-cs.php:408
+#: inc/theme-settings/theme-option-cs.php:663
+msgid "Logo"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:339
+msgid "Logo Options"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:351
+msgid "Logo Two"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:381
+msgid "Long"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:119
+#: inc/theme-settings/theme-option-cs.php:164
+msgid "Medium 500"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:144
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:173
+msgid "Menu Bar Button"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:150
+msgid "Menu Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:156
+msgid "Menu Hover Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:168
+msgid "Menu Info Paragraph Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:162
+msgid "Menu Info Title Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:139
+msgid "Menu Option"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:681
+msgid "Menu URL"
+msgstr ""
+
+#: comments.php:75
+msgid "Name"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:81
+msgid "Nav Bar Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:178
+msgid "Nav Bar Button Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:184
+msgid "Nav Bar Button Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:190
+msgid "Nav Bar Button Hover Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:196
+msgid "Nav Bar Button Hover Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:93
+msgid "Nav Bar Hover Text Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:76
+msgid "Nav Bar Options"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:87
+msgid "Nav Bar Text Color"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:403
+msgid "Navbar Options"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:127
+#: inc/theme-settings/theme-option-cs.php:293
+msgid "Navbar Type"
+msgstr ""
+
+#: inc/theme-helper-functions.php:373
+msgid "Next"
+msgstr ""
+
+#: inc/theme-helper-functions.php:348
+msgid "Next Post"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:113
+#: inc/theme-settings/theme-group-fields-cs.php:122
+#: inc/theme-settings/theme-group-fields-cs.php:163
+#: inc/theme-settings/theme-group-fields-cs.php:202
+#: inc/theme-settings/theme-group-fields-cs.php:334
+#: inc/theme-settings/theme-group-fields-cs.php:346
+#: inc/theme-settings/theme-group-fields-cs.php:355
+#: inc/theme-settings/theme-group-fields-cs.php:394
+#: inc/theme-settings/theme-group-fields-cs.php:403
+#: inc/theme-settings/theme-group-fields-cs.php:412
+#: inc/theme-settings/theme-group-fields-cs.php:421
+#: inc/theme-settings/theme-group-fields-cs.php:430
+#: inc/theme-settings/theme-group-fields-cs.php:439
+#: inc/theme-settings/theme-group-fields-cs.php:448
+msgid "No"
+msgstr ""
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-value-cs.php:256
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:926
+msgid ""
+"Oops! The page you are looking for does not exit. it might been moved or "
+"deleted."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:72
+#: inc/theme-settings/theme-group-fields-cs.php:286
+#: inc/theme-settings/theme-option-cs.php:847
+#: inc/theme-settings/theme-option-cs.php:911
+msgid "Page Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:119
+msgid "Page Breadcrumb"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:78
+msgid "Page Content Background Color"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:199
+msgid "Page Content Spacing"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:194
+msgid "Page Content Spacing Options"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:84
+msgid "Page Content Text Color"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:160
+msgid "Page Full Width"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:105
+msgid "Page Header, Footer & Breadcrumb Options"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:55
+msgid "Page Layouts & Colors Options"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:56
+msgid "Page Options"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:183
+#: inc/theme-settings/theme-group-fields-cs.php:207
+#: inc/theme-settings/theme-group-fields-cs.php:219
+#: inc/theme-settings/theme-group-fields-cs.php:302
+#: inc/theme-settings/theme-option-cs.php:863
+#: inc/theme-settings/theme-option-cs.php:948
+msgid "Page Spacing Bottom"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:231
+msgid "Page Spacing Left"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:168
+msgid "Page Spacing Options"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:243
+msgid "Page Spacing Right"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:172
+#: inc/theme-settings/theme-group-fields-cs.php:291
+#: inc/theme-settings/theme-option-cs.php:852
+#: inc/theme-settings/theme-option-cs.php:937
+msgid "Page Spacing Top"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:110
+msgid "Page Title"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:155
+msgid "Page Width & Padding Options"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:880
+msgid "Pages Settings"
+msgstr ""
+
+#: inc/theme-helper-functions.php:167
+msgid "Pages:"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:923
+msgid "Paragraph"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:137
+msgid "phone"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:369
+msgid "Phone Number"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:214
+msgid "Porter Victoria "
+msgstr ""
+
+#. %s: post author.
+#: inc/theme-helper-functions.php:244
+#, php-format
+msgctxt "post author"
+msgid " %s"
+msgstr ""
+
+#: comments.php:94
+msgid "Post Comment"
+msgstr ""
+
+#. %s: post date.
+#: inc/theme-helper-functions.php:265
+#, php-format
+msgctxt "post date"
+msgid " %s"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:418
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:427
+msgid "Post Navigation With Image"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:409
+msgid "Post Share"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:331
+msgid "Posted By"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:343
+#: inc/theme-settings/theme-group-fields-cs.php:391
+msgid "Posted Category"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:400
+msgid "Posted Tags"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:55
+msgid "Preloader"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:44
+msgid "Preloader & SVG Enable"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:51
+msgid "Preloader Options"
+msgstr ""
+
+#: inc/theme-helper-functions.php:333
+msgid "Prev Post"
+msgstr ""
+
+#: inc/theme-helper-functions.php:368
+msgid "Previous"
+msgstr ""
+
+#: inc/theme-init.php:82
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:832
+msgid "Product Page"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:835
+msgid "Product Shop Page"
+msgstr ""
+
+#: inc/theme-init.php:173
+msgid "Product Sidebar"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:840
+msgid "Product Single Page"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:420
+msgid "Project"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:213
+msgid "Project Clients"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:225
+msgid "Project Date"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:231
+msgid "Project Location"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:207
+msgid "Project Meta"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:198
+#: inc/theme-settings/theme-option-cs.php:414
+msgid "Project Options"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:419
+msgid "Project Title"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:425
+msgid "Project URL"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:309
+msgid "Qualification"
+msgstr ""
+
+#: inc/theme-excerpt.php:58 inc/theme-helper-functions.php:480
+#: inc/theme-settings/theme-group-fields-cs.php:363
+#: template-parts/content/post-excerpt.php:11
+msgid "Read More"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:352
+msgid "Read More Button"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:361
+msgid "Read More Text"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:380
+msgid "Regular"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:118
+#: inc/theme-settings/theme-option-cs.php:163
+msgid "Regular 400"
+msgstr ""
+
+#: inc/theme-comments-modifications.php:47
+msgid "Reply"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:476
+msgid "Request Quote"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:375
+msgid "Right Btn text"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:381
+msgid "Right Btn url"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:358
+msgid "Right Icon"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:363
+msgid "Right Title"
+msgstr ""
+
+#: searchform.php:13 inc/theme-settings/theme-option-cs.php:990
+msgid "Search"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:987
+msgid "Search Page"
+msgstr ""
+
+#: inc/theme-hook-customize.php:110
+msgid "Search Results for:"
+msgstr ""
+
+#: inc/theme-hook-customize.php:195
+msgid "Search...."
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:47
+msgid "select <mark>gallery photos</mark> to show in frontend"
+msgstr ""
+
+#: inc/theme-settings/theme-shortcode-option-cs.php:17
+msgid "Select a shortcode"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:46
+msgid "Select Gallery Photos"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:60
+#: inc/theme-settings/theme-group-fields-cs.php:275
+msgid "Select Page Layout"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:85
+#: inc/theme-settings/theme-metabox-cs.php:111
+#: inc/theme-settings/theme-metabox-cs.php:249
+msgid "Select Your Icon"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:91
+msgid "Select Your service content"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:120
+#: inc/theme-settings/theme-option-cs.php:165
+msgid "Semi Bold 600"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:90
+msgid "service content"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:76
+msgid "Service Options"
+msgstr ""
+
+#: inc/theme-init.php:162
+msgid "service Sidebar"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:283
+msgid "Set Header & Footer Type"
+msgstr ""
+
+#: template-parts/default-menu.php:8
+msgid "Set Up Menu"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:826
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:379
+msgid "Short"
+msgstr ""
+
+#: inc/theme-init.php:152
+msgid "Sidebar"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:201
+msgid "Sidebar Dropdown Options"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:241
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:252
+msgid "Sidebar Widget Border Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:258
+msgid "Sidebar Widget Text Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:246
+msgid "Sidebar Widget Title Color"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:819
+msgid "Single Post"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:206
+msgid "sitebar"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:237
+msgid "Sitebar Address"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:225
+#: inc/theme-settings/theme-option-cs.php:231
+msgid "Sitebar content"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:243
+msgid "Sitebar email"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:255
+msgid "Sitebar facebook url"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:267
+msgid "Sitebar instagram"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:273
+msgid "Sitebar linkedin"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:218
+msgid "Sitebar Logo"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:213
+msgid "Sitebar Option"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:249
+msgid "Sitebar phone"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:261
+msgid "Sitebar twitter url"
+msgstr ""
+
+#: header.php:30
+msgid "Skip to content"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:774
+msgid "Social Icon"
+msgstr ""
+
+#: inc/theme-settings/theme-shortcode-option-cs.php:25
+msgid "Social Icons"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:166
+#: inc/theme-settings/theme-metabox-cs.php:172
+#: inc/theme-settings/theme-metabox-cs.php:291
+msgid "Social Info"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:787
+msgid "Social Item Icon"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:781
+msgid "Social Item Repeater"
+msgstr ""
+
+#: template-parts/content-single.php:58
+msgid "Social Share:"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:793
+msgid "Social URL"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:919
+msgid "Sorry! The Page Not Found"
+msgstr ""
+
+#: template-parts/content-none.php:36
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:297
+msgid "Start From"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:303
+msgid "Study Options"
+msgstr ""
+
+#: comments.php:81
+msgid "Subject"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:311
+msgid "Tag Cloud Options"
+msgstr ""
+
+#: template-parts/content-single.php:52
+msgid "Tags:"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:105
+msgid "Team Icon"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:116
+#: inc/theme-settings/theme-metabox-cs.php:147
+msgid "Team Info"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:100
+msgid "Team Options"
+msgstr ""
+
+#: inc/theme-settings/theme-shortcode-option-cs.php:62
+#: inc/theme-settings/theme-shortcode-option-cs.php:84
+#: inc/theme-settings/theme-shortcode-option-cs.php:89
+#: inc/theme-settings/theme-shortcode-option-cs.php:116
+msgid "Text"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:52
+msgid "Theme Heading Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:38
+msgid "Theme Main Color One"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:18
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:59
+msgid "Theme Paragraph Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:45
+msgid "Theme Secondary Color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:54
+msgid ""
+"This is theme heading color, means it'll affect all of heading tag like, h1,"
+"h2,h3,h4,h5,h6"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:61
+msgid ""
+"This is theme paragraph color, means it'll affect all of body/paragraph tag "
+"like, p,li,a etc"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:40
+msgid ""
+"This is theme primary color one, means it will affect most of elements that "
+"have default color of our theme primary color"
+msgstr ""
+
+#: inc/theme-settings/theme-customizer-cs.php:47
+msgid ""
+"This is theme secondary color, means it'll affect most of elements that have "
+"default color of our theme secondary color"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:298
+msgid "Thursday, Nov 4, 2024"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:153
+#: inc/theme-settings/theme-metabox-cs.php:178
+#: inc/theme-settings/theme-option-cs.php:916
+msgid "Title"
+msgstr ""
+
+#: inc/theme-settings/theme-shortcode-option-cs.php:54
+msgid "Top Menu"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:83
+#: inc/theme-settings/theme-option-cs.php:93
+#: inc/theme-settings/theme-option-cs.php:139
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:188
+#: inc/theme-settings/theme-shortcode-option-cs.php:45
+#: inc/theme-settings/theme-shortcode-option-cs.php:67
+#: inc/theme-settings/theme-shortcode-option-cs.php:94
+#: inc/theme-settings/theme-shortcode-option-cs.php:121
+msgid "URL"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:602
+#: inc/theme-settings/theme-option-cs.php:741
+msgid ""
+"use  <mark>{copy}</mark> for copyright symbol, use <mark>{year}</mark> for "
+"current year, "
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:22
+msgid "Video Post Format Options"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:232
+msgid ""
+"We understand better that enim ad minim veniam, consectetur adipi scing elit,"
+" sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:226
+msgid ""
+"We understand better that enim ad minim veniam, consectetur adipis cing elit,"
+" sed do"
+msgstr ""
+
+#: inc/theme-settings/theme-metabox-cs.php:70
+msgid "Width & Padding"
+msgstr ""
+
+#. Author of the theme
+msgid "wowtheme7"
+msgstr ""
+
+#: inc/theme-helper-functions.php:299
+msgid "Written By"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:112
+#: inc/theme-settings/theme-group-fields-cs.php:121
+#: inc/theme-settings/theme-group-fields-cs.php:162
+#: inc/theme-settings/theme-group-fields-cs.php:201
+#: inc/theme-settings/theme-group-fields-cs.php:333
+#: inc/theme-settings/theme-group-fields-cs.php:345
+#: inc/theme-settings/theme-group-fields-cs.php:354
+#: inc/theme-settings/theme-group-fields-cs.php:393
+#: inc/theme-settings/theme-group-fields-cs.php:402
+#: inc/theme-settings/theme-group-fields-cs.php:411
+#: inc/theme-settings/theme-group-fields-cs.php:420
+#: inc/theme-settings/theme-group-fields-cs.php:429
+#: inc/theme-settings/theme-group-fields-cs.php:438
+#: inc/theme-settings/theme-group-fields-cs.php:447
+msgid "Yes"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:437
+msgid "you can <mark> show/hide</mark> info item of header five"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:389
+#: inc/theme-settings/theme-option-cs.php:470
+#: inc/theme-settings/theme-option-cs.php:776
+msgid "you can <mark> show/hide</mark> navbar button of header two"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:932
+msgid "you can change <mark>button text</mark> of 404 page"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:925
+msgid "you can change <mark>paragraph</mark> of 404 page"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:918
+msgid "you can change <mark>title</mark> of 404 page"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:1004
+msgid "You can save your current options. Download a Backup and Import."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:384
+msgid "you can set <mark> excerpt length</mark> for post."
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:510
+#: inc/theme-settings/theme-option-cs.php:901
+msgid "you can set <mark>background</mark> for breadcrumb"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:152
+msgid ""
+"you can set <mark>font</mark> for  for heading tag .eg: h1,h2mh3,h4,h5,h6"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:108
+msgid ""
+"you can set <mark>font</mark> for all html tags (if not use different "
+"heading font)"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:317
+msgid ""
+"you can set <mark>footer type</mark> it will show in every page except you "
+"select specific navbar type form page settings."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:147
+msgid ""
+"you can set <mark>footer type</mark> transparent type or solid background."
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:198
+msgid "you can set <mark>icon</mark> for back to top."
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:301
+msgid ""
+"you can set <mark>navbar type</mark> it will show in every page except you "
+"select specific navbar type form page settings."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:135
+msgid ""
+"you can set <mark>navbar type</mark> transparent type or solid background."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:161
+msgid "you can set <mark>ON / OFF</mark> to set page container full width."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:200
+msgid "you can set <mark>ON / OFF</mark> to set page content spacing."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:446
+msgid "you can set <mark>ON / OFF</mark> to show / hide author bio button."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:437
+msgid ""
+"you can set <mark>ON / OFF</mark> to show / hide get related post button."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:428
+msgid ""
+"you can set <mark>ON / OFF</mark> to show / hide post navigation button."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:419
+msgid "you can set <mark>ON / OFF</mark> to show / hide post navigation."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:410
+msgid "you can set <mark>ON / OFF</mark> to show / hide post share."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:401
+msgid "you can set <mark>ON / OFF</mark> to show / hide post tags."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:332
+msgid "you can set <mark>ON / OFF</mark> to show / hide posted by."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:344
+#: inc/theme-settings/theme-group-fields-cs.php:392
+msgid "you can set <mark>ON / OFF</mark> to show / hide posted category."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:353
+msgid "you can set <mark>ON / OFF</mark> to show / hide read more button."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:120
+msgid "you can set <mark>ON / OFF</mark> to show/hide page breadcrumb."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:111
+msgid "you can set <mark>ON / OFF</mark> to show/hide page title."
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:524
+msgid "you can set <mark>overlay color</mark> for Breadcrumb background image"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:65
+msgid "you can set <mark>overlay color</mark> for preloader background image"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:185
+msgid "you can set <mark>Padding Bottom</mark> for page container."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:221
+#: inc/theme-settings/theme-group-fields-cs.php:304
+#: inc/theme-settings/theme-option-cs.php:865
+#: inc/theme-settings/theme-option-cs.php:950
+msgid "you can set <mark>Padding Bottom</mark> for page content area."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:233
+msgid "you can set <mark>Padding Left</mark> for page content area."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:245
+msgid "you can set <mark>Padding Right</mark> for page content area."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:174
+msgid "you can set <mark>Padding Top</mark> for page container."
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:209
+#: inc/theme-settings/theme-group-fields-cs.php:293
+#: inc/theme-settings/theme-option-cs.php:854
+#: inc/theme-settings/theme-option-cs.php:939
+msgid "you can set <mark>Padding Top</mark> for page content area."
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:620
+#: inc/theme-settings/theme-option-cs.php:759
+msgid "you can set <mark>padding</mark> for copyright area bottom"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:608
+#: inc/theme-settings/theme-option-cs.php:747
+msgid "you can set <mark>padding</mark> for copyright area top"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:573
+#: inc/theme-settings/theme-option-cs.php:718
+msgid "you can set <mark>padding</mark> for footer bottom"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:561
+#: inc/theme-settings/theme-option-cs.php:706
+msgid "you can set <mark>padding</mark> for footer top"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:57
+msgid "you can set <mark>Yes / No</mark> to enable/disable preloader"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:595
+#: inc/theme-settings/theme-option-cs.php:734
+msgid "you can set <mark>Yes / No</mark> to set copyright area spacing"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:554
+#: inc/theme-settings/theme-option-cs.php:699
+msgid "you can set <mark>Yes / No</mark> to set footer spacing"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:190
+msgid "you can set <mark>Yes / No</mark> to show/hide back to top"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:503
+#: inc/theme-settings/theme-option-cs.php:894
+msgid "you can set <mark>Yes / No</mark> to show/hide breadcrumb"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:134
+msgid "you can set <mark>yes</mark> to select different heading font"
+msgstr ""
+
+#: inc/theme-settings/theme-group-fields-cs.php:362
+#: inc/theme-settings/theme-group-fields-cs.php:370
+msgid "you can set read more <mark>button text</mark> to button text."
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:658
+msgid ""
+"you can upload <mark> animated image</mark> here it will overwrite "
+"customizer uploaded logo"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:651
+msgid ""
+"you can upload <mark> background image</mark> here it will overwrite "
+"customizer uploaded logo"
+msgstr ""
+
+#: inc/theme-settings/theme-option-cs.php:220
+#: inc/theme-settings/theme-option-cs.php:346
+#: inc/theme-settings/theme-option-cs.php:353
+#: inc/theme-settings/theme-option-cs.php:410
+#: inc/theme-settings/theme-option-cs.php:665
+msgid ""
+"you can upload <mark> logo</mark> here it will overwrite customizer uploaded "
+"logo"
+msgstr ""
+
+#: inc/theme-comments-modifications.php:42
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: template-parts/footer/footer-style-01.php:8
+#: template-parts/footer/footer.php:8
+msgid "© Bizmaster 2024 All Rights Reserved"
+msgstr ""

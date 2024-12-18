@@ -1,0 +1,98 @@
+/*
+Theme Name: Bizmaster
+Theme URI: https://wpcoders.in/bizmaster/
+Author: wpcodersthemes
+Author URI: https://themeforest.net/user/wpcodersthemes
+Description: Bizmaster – Its unique features and functionalities make it the ideal solution for websites dedicated to Car Service and other businesses related to Service. The theme is well suited for all types of Business services: Business, Finance, long range It service, small prop, Business and investment,  or it service.
+Version: 1.0.4
+License: GNU General Public License v2 or later
+License URI: LICENSE
+Text Domain: bizmaster
+Tags: custom-background, custom-logo, custom-menu, featured-images, threaded-comments, translation-ready
+Tested up to: 6.5.4
+Requires PHP: 7.4
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+
+Bizmaster is based on Underscores https://underscores.me/, (C) 2012-2017 Automattic, Inc.
+Underscores is distributed under the terms of the GNU GPL v2 or later.
+
+Normalizing styles have been helped along thanks to the fine work of
+Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
+*/
+.btn-w-100 .elementor-button {
+  width: 100%;
+}
+.bg-gray {
+  background: rgba(255, 255, 255, 0.1);
+  box-shadow: 0px 10px 60px rgba(0, 0, 0, 0.07);
+}
+.bg-red {
+  background: #e94057;
+}
+.bg-gray-after {
+  position: relative;
+}
+.bg-gray-after:after {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.1);
+  margin: 0 100px;
+}
+.border-2 {
+  border: 2px solid #263e6b;
+}
+.inovating-area .border-bottom-2 {
+  border-bottom: 2px solid #263e6b;
+}
+@media all and (max-width: 1599px) {
+  .header-6-bg-image-seze-100 .elementor-widget-wrap {
+    background-size: 100% 100% !important;
+  }
+  .header-6-bg-image-seze-100 .elementor-widget-container {
+    padding-left: 25px !important;
+  }
+}
+@media all and (max-width: 575px) {
+  .elementor-image-box-img-wrap .elementor-image-box-img {
+    margin-bottom: 20px !important;
+  }
+}
+
+.single-blog-list .details .blog-meta li {
+  padding-left: 0;
+  list-style: none;
+}
+.single-blog-list .details .blog-meta li:before {
+  display: none;
+}
+.single-progressbar .skill:before {
+    background: #e1e1e1;
+}
+.footer-widget.widget.widget_nav_menu ul li + li {
+    margin-top: 15px;
+}
+.breadcrumb-wrap .breadcrumb-content {
+    padding: 170px 0 170px 0;
+}
+
+.wp-block-tag-cloud a {
+    background: #fff;
+    height: 42px;
+    line-height: 42px;
+    border-radius: 12px;
+    border: 0;
+}
+.wp-block-tag-cloud a:hove {
+  background: var(--main-color-one);
+  color: #fff;
+}
+.sub-title svg {
+	max-width: 20px;
+	max-height: 20px;
+}

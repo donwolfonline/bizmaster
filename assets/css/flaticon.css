@@ -1,0 +1,252 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("../fonts/flaticon.eot");
+    src: url("../fonts/flaticon.eot?#iefix") format("embedded-opentype"), url("../fonts/flaticon.woff2") format("woff2"), url("../fonts/flaticon.woff") format("woff"), url("../fonts/flaticon.ttf") format("truetype"), url("../fonts/flaticon.svg#flaticon") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+    @font-face {
+        font-family: "flaticon";
+        src: url("../fonts/flaticon.svg#flaticon") format("svg");
+    }
+}
+
+[class^="flaticon-"]:before,
+[class*=" flaticon-"]:before,
+[class^="flaticon-"]:after,
+[class*=" flaticon-"]:after {
+    font-family: flaticon;
+    font-style: normal;
+}
+
+.flaticon-right-arrow:before {
+    content: "\f101";
+}
+.flaticon-running:before {
+    content: "\f102";
+}
+.flaticon-stationery-bicycle:before {
+    content: "\f103";
+}
+.flaticon-boxing-gloves:before {
+    content: "\f104";
+}
+.flaticon-kickboxing:before {
+    content: "\f105";
+}
+.flaticon-right-arrow-1:before {
+    content: "\f106";
+}
+.flaticon-share:before {
+    content: "\f107";
+}
+.flaticon-facebook:before {
+    content: "\f108";
+}
+.flaticon-twitter:before {
+    content: "\f109";
+}
+.flaticon-google-plus:before {
+    content: "\f10a";
+}
+.flaticon-instagram:before {
+    content: "\f10b";
+}
+.flaticon-consultation:before {
+    content: "\f10c";
+}
+.flaticon-customer:before {
+    content: "\f10d";
+}
+.flaticon-trainer:before {
+    content: "\f10e";
+}
+.flaticon-team:before {
+    content: "\f10f";
+}
+.flaticon-straight-quotes:before {
+    content: "\f110";
+}
+.flaticon-star:before {
+    content: "\f111";
+}
+.flaticon-telephone-call:before {
+    content: "\f112";
+}
+.flaticon-volume:before {
+    content: "\f113";
+}
+.flaticon-qualified:before {
+    content: "\f114";
+}
+.flaticon-fit:before {
+    content: "\f115";
+}
+.flaticon-fighting:before {
+    content: "\f116";
+}
+.flaticon-karate:before {
+    content: "\f117";
+}
+.flaticon-judo:before {
+    content: "\f118";
+}
+.flaticon-kickboxing-1:before {
+    content: "\f119";
+}
+.flaticon-karate-1:before {
+    content: "\f11a";
+}
+.flaticon-wrestling:before {
+    content: "\f11b";
+}
+.flaticon-karate-2:before {
+    content: "\f11c";
+}
+.flaticon-karate-3:before {
+    content: "\f11d";
+}
+.flaticon-taekwondo:before {
+    content: "\f11e";
+}
+.flaticon-check:before {
+    content: "\f11f";
+}
+.flaticon-email:before {
+    content: "\f120";
+}
+.flaticon-badge:before {
+    content: "\f121";
+}
+.flaticon-placeholder:before {
+    content: "\f122";
+}
+.flaticon-boxing:before {
+    content: "\f123";
+}
+.flaticon-boxing-1:before {
+    content: "\f124";
+}
+.flaticon-boxing-2:before {
+    content: "\f125";
+}
+.flaticon-location:before {
+    content: "\f126";
+}
+.flaticon-phone-call:before {
+    content: "\f127";
+}
+.flaticon-quote:before {
+    content: "\f128";
+}
+.flaticon-good-shape:before {
+    content: "\f129";
+}
+.flaticon-man:before {
+    content: "\f12a";
+}
+.flaticon-fitness:before {
+    content: "\f12b";
+}
+.flaticon-star-1:before {
+    content: "\f12c";
+}
+.flaticon-whistle:before {
+    content: "\f12d";
+}
+.flaticon-boxing-glove:before {
+    content: "\f12e";
+}
+.flaticon-magnifying-glass:before {
+    content: "\f12f";
+}
+.flaticon-mission:before {
+    content: "\f130";
+}
+.flaticon-focus:before {
+    content: "\f131";
+}
+.flaticon-mission-1:before {
+    content: "\f132";
+}
+.flaticon-arroba:before {
+    content: "\f133";
+}
+.flaticon-pin:before {
+    content: "\f134";
+}
+.flaticon-clock-circular-outline:before {
+    content: "\f135";
+}
+.flaticon-calendar:before {
+    content: "\f136";
+}
+.flaticon-stopwatch:before {
+    content: "\f137";
+}
+.flaticon-maps-and-flags:before {
+    content: "\f138";
+}
+.flaticon-slim-down:before {
+    content: "\f139";
+}
+.flaticon-heart:before {
+    content: "\f13a";
+}
+.flaticon-flag:before {
+    content: "\f13b";
+}
+.flaticon-document:before {
+    content: "\f13c";
+}
+.flaticon-expand:before {
+    content: "\f13d";
+}
+.flaticon-red-eye:before {
+    content: "\f13e";
+}
+.flaticon-group:before {
+    content: "\f13f";
+}
+.flaticon-writing:before {
+    content: "\f140";
+}
+.flaticon-id-card:before {
+    content: "\f141";
+}
+.flaticon-calendar-1:before {
+    content: "\f142";
+}
+.flaticon-calendar-2:before {
+    content: "\f143";
+}
+.flaticon-right-arrow-2:before {
+    content: "\f144";
+}
+.flaticon-right-arrows:before {
+    content: "\f145";
+}
+.flaticon-next:before {
+    content: "\f146";
+}
+.flaticon-next-1:before {
+    content: "\f147";
+}
+.flaticon-right-arrow-3:before {
+    content: "\f148";
+}
+.flaticon-arrow:before {
+    content: "\f149";
+}
+.flaticon-left-arrow:before {
+    content: "\f14a";
+}
+.flaticon-arrow-1:before {
+    content: "\f14b";
+}
+.flaticon-youtube:before {
+    content: "\f14c";
+}

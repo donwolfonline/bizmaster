@@ -1,0 +1,70 @@
+//Blog Pagination
+
+.blog-pagination {
+
+  display: block;
+  width: 100%;
+  ul {
+    li {
+      display: inline-block;
+      padding-left: 0;
+      + {
+        li {
+          margin: 0 6px;
+        }
+      }
+      &:before{
+        display: none;
+      }
+      a {
+        display: block;
+        height: 45px;
+        width: 45px;
+        line-height: 45px;
+        padding: 0;
+        border: 0;
+        text-align: center;
+        font-weight: 500;
+        border-radius: 5px;
+        -webkit-transition: .3s ease-in;
+        -o-transition: .3s ease-in;
+        transition: .3s ease-in;
+        background: #fff;
+        border: 1px solid #19352D;
+        color: #19352D;
+        &:hover {
+          background-color: var(--main-color-one);
+          color: #fff;
+          border-color: var(--main-color-one);
+        }
+        &.prev,
+        &.next {
+          width: auto;
+          padding: 0 20px;
+        }
+      }
+      span {
+        display: block;
+        height: 45px;
+        width: 45px;
+        line-height: 45px;
+        padding: 0;
+        border: 1px solid #e2e2e2;
+        border-radius: 5px;
+        text-align: center;
+        font-weight: 600;
+        -webkit-transition: .3s ease-in;
+        -o-transition: .3s ease-in;
+        transition: .3s ease-in;
+      }
+      span.current {
+        background-color: var(--main-color-one);
+        color: #fff;
+        border-color: var(--main-color-one);
+      }
+    }
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+}

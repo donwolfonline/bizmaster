@@ -1,0 +1,140 @@
+/*--------------------------------------------------------------
+	## Header
+--------------------------------------------------------------*/
+.banner-item-wtap {
+    .video-play-btn {
+        height: 80px;
+        width: 80px;
+        line-height: 80px;
+        border-radius: 50%;
+        font-size: 18px;
+        background: transparent;
+        border: 1px solid #fff;
+        margin-bottom: 35px;
+        &:before {
+            display: none;
+        }
+    }
+    .title {
+        font-size: 60px;
+        color: #fff;
+        line-height: 1.2;
+    }
+    p {
+       color: #fff;
+       margin-top: 30px; 
+    }
+    .header-btn {
+        margin-top: 45px;
+    }
+}
+
+
+
+/**************** sidebar-menu *************/
+.sidebar-menu {
+  width: 0;
+  position: fixed;
+  right: 0;
+  top: 0;
+  height: 100vh;
+  background-color: #fff;
+  z-index: 999999;
+  overflow-y: auto;
+  transition: 0.5s;
+  opacity: 0;
+  visibility: hidden;
+}
+
+.sidebar-menu .sidebar-inner {
+  position: relative;
+  top: 150px;
+  opacity: 0;
+  visibility: hidden;
+  transition: 0.3s;
+  padding: 50px 40px 50px 40px;
+}
+.sidebar-menu .sidebar-inner .thumb {
+  margin-bottom: 15px;
+}
+.sidebar-menu .sidebar-inner p {
+  margin-bottom: 28px;
+}
+.sidebar-menu .sidebar-inner .sidebar-address {
+  margin-bottom: 35px;
+}
+.sidebar-menu .sidebar-inner .sidebar-address ul {
+  margin: 0;
+  padding: 0;
+}
+.sidebar-menu .sidebar-inner .sidebar-address ul li {
+  list-style: none;
+  margin-bottom: 4px;
+}
+.sidebar-menu .sidebar-inner .sidebar-address ul li:last-child {
+  margin-bottom: 0;
+}
+.sidebar-menu .sidebar-inner .sidebar-address ul li i {
+  margin-right: 6px;
+  width: 25px;
+}
+.sidebar-menu .sidebar-inner .sidebar-subscribe {
+  position: relative;
+  margin-bottom: 40px;
+}
+.sidebar-menu .sidebar-inner .sidebar-subscribe input {
+  width: 100%;
+  border: 1px solid #d6dadf;
+  height: 42px;
+  padding: 0 45px 0 12px;
+}
+.sidebar-menu .sidebar-inner .sidebar-subscribe button {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 42px;
+  width: 42px;
+  background: #97b3d0;
+  transition: 0.4s;
+  border: 0;
+  color: var(--heading-color);
+  cursor: pointer;
+}
+.sidebar-menu .sidebar-inner .sidebar-subscribe button:hover {
+  background: var(--main-color-one);
+  color: #fff;
+}
+.sidebar-menu .sidebar-inner .social-media li a {
+  background: #ced4da;
+}
+.sidebar-menu .sidebar-inner .social-media li a:hover {
+  background: var(--main-color-one);
+  color: #fff;
+}
+
+.sidebar-menu .sidebar-menu-close {
+  background-color: var(--main-color-one);
+  border: 0;
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #fff;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  cursor: pointer;
+  z-index: 999;
+}
+
+.sidebar-menu.active {
+  width: 360px;
+  opacity: 1;
+  visibility: visible;
+}
+
+.sidebar-menu.active .sidebar-inner {
+  top: 0;
+  opacity: 1;
+  visibility: visible;
+  transition: all 0.7s ease-out 0.8s;
+}

@@ -1,0 +1,76 @@
+/*----------------------------
+    Blog Grid Item
+-----------------------------*/
+.post-meta {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  padding-left: 0 !important;
+  li {
+    display: inline-block;
+    font-size: 15px;
+    line-height: 1.6;
+    font-family: var(--body-font);
+    font-weight: 4500;
+    position: relative;
+    z-index: 0;
+    padding-left: 0 !important;
+    color: #8E8E8E;
+    list-style: none !important;
+    text-transform: capitalize;
+    margin-right: 15px;
+    svg {
+        margin-right: 5px;
+        color: var(--main-color-one);
+    }
+    &::before {
+      display: none !important;
+    }
+    &:last-child {
+      margin-right: 0;
+    }
+
+    &.white {
+      color: $white;
+
+      span {
+        color: $white;
+      }
+    }
+
+    span {
+      color: #8E8E8E;
+
+      &.white {
+        color: $white;
+      }
+    }
+
+    &:before {
+      display: none;
+    }
+
+    a {
+      transition: all 300ms;
+      color: #8E8E8E;
+
+      svg {
+        margin-right: 10px;
+      }
+    }
+
+    .posted-on {
+      .entry-date {
+        color: #8E8E8E;
+        &.white {
+          color: $white;
+        }
+      }
+
+      i {
+        margin-right: 10px;
+        color: var(--main-color-one);
+      }
+    }
+  }
+}
